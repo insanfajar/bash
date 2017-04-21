@@ -3,7 +3,7 @@
 #################################################################
 # Compile and Install Nginx, LibreSSL (static), PCRE, Brotli
 # Optional nginx modules: Cache Purge, Headers More, Push Stream
-# and NAXSI. i
+# and NAXSI.
 #
 # Rev: 21.04.17
 # Tested on Debian 8
