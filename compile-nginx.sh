@@ -55,10 +55,9 @@ DYNAMIC_HEADERS_MORE=0
 
 ########## STOP EDIT ##########
 
-RED='\033[1;91m'
-GRN='\033[1;32m'
-BLU='\033[1;34m'
-#NC='\033[0m'
+RED='\e[1;91m'
+GRN='\e[1;32m'
+BLU='\e[1;34m'
 NC='\e[0m'
 
 export MYDIR=$baseDir/$buildDir
