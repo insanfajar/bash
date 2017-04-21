@@ -5,7 +5,7 @@
 # Optional nginx modules: Cache Purge, Headers More, Push Stream
 # and NAXSI.
 #
-# Rev: 21.04.17
+# Rev: 22.04.17
 # Tested on Debian 8
 #################################################################
 
